@@ -1,0 +1,21 @@
+.place__paragraph {
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  width: 484px;
+  font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 1.63;
+/* or 29px */
+grid-column: 2/3;
+grid-row: 2/3;
+color: #FFFFFF;
+margin-top: 26px;
+}
+
+.place__paragraph:nth-of-type(1) {
+ margin-top: 0;
+}
+
+

@@ -1,0 +1,19 @@
+.footer__link {
+height: 18px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.12;
+color: #FFFFFF;
+text-decoration: none;
+margin-right: 18px;
+transition: opacity 1s ease;
+}
+
+.footer__link:nth-of-type(5) {
+  margin-right: 533px;
+}
+
+.footer__link:hover {
+  opacity: .5;
+}
