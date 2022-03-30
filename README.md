@@ -9,6 +9,6 @@
 
 Здесь проект о путешествии по России, созданный с целью ознакомления с путешествием по России.
 
-**Figma**
+**GithubPages**
 
-- [Ссылка на Github Pages] ()
+- [Ссылка на Github Pages] (https://petrushische.github.io/russian-travel/index.html)
