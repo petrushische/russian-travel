@@ -11,4 +11,4 @@
 
 **GithubPages**
 
-- [Ссылка на Github Pages] (https://petrushische.github.io/russian-travel/index.html)
+- [Ссылка на Github Pages] ()
