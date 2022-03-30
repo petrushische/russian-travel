@@ -1,12 +1,52 @@
 .cover__title {
-  margin: 0;
-  width: 560px;
-height: 152px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin: 0; 
+text-align: center;
+width: 47.3%;
 font-style: normal;
 font-weight: 900;
 font-size: 72px;
 line-height: 1.06;
-text-align: center;
 color: #FFFFFF;
 position: relative;
+margin-bottom: 32px;
+padding-top: 20.69%;
+padding-left: 26.35%;
+padding-right: 26.35%;
 }
+
+
+  
+
+
+@media screen and (max-width: 1024px) {
+  .cover__title {
+    width: 54.69%;
+    padding-top: 19.04%;
+    padding-left: 22.66%;
+    padding-right: 22.66%;
+
+    }  
+  }
+  
+  @media screen and (max-width: 768px) {
+    .cover__title {
+      width: 72.92%;
+      padding-top: 14.97%;
+      padding-left: 13.54%;
+      padding-right: 13.54%;
+      }  
+    }
+  
+    @media screen and (max-width: 320px) {
+      .cover__title {
+        width: 90%;
+        padding-top: 10.31%;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: 32px;
+        line-height: 1.09;
+        margin-bottom: 16px;
+      }
+     } 

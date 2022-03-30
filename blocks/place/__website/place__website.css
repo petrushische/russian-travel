@@ -1,7 +1,26 @@
 .place__website {
-  width: 456px;
-  height: 46px;
+  width: 94.21%;
   align-self: flex-end;
-  margin-left: 40px;
   margin-bottom: 48px;
+  grid-column: 3/4;
+  grid-row: 1/2;
+}
+
+@media screen and (max-width:1024px) {
+  .place__website {
+width: 100%;
+  }
+  
+}
+
+
+
+@media screen and (max-width:320px) {
+  .place__website {
+    order: -1;
+    width: 90%;
+    align-self: center;
+    margin-bottom: 32px;
+  }
+  
 }
