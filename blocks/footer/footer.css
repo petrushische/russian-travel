@@ -3,6 +3,7 @@ width: 92.5%;
 padding-top: 92px;
 display: flex;
 justify-content: space-between;
+font-family: "Inter";
 }
 
 @media screen and (max-width: 1024px) {
